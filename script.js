@@ -1,0 +1,1 @@
+console.log('FK Earning Hub Loaded');
